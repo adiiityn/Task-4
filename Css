@@ -1,0 +1,20 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+main {
+  display: flex;
+}
+
+.sidebar {
+  width: 25%;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+.content {
+  width: 75%;
+  padding: 10px;
+}
